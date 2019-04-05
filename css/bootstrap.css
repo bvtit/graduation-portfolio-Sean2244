@@ -3404,7 +3404,7 @@ fieldset[disabled] .btn-danger.focus {
 }
 .btn-link {
   font-weight: normal;
-  color: orange;
+  color: #337ab7;
   border-radius: 0;
 }
 .btn-link,
@@ -4281,7 +4281,6 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   padding: 15px 15px;
   font-size: 18px;
   line-height: 20px;
-  color: #000080;
 }
 .navbar-brand:hover,
 .navbar-brand:focus {
